@@ -1,0 +1,12 @@
+2019-02-10 - 12:02:28	Obtaining latest drawing.
+2019-02-10 - 12:02:28	Opening https://www.lottonumbers.com/powerball.
+2019-02-10 - 12:02:28	Creating BS object for parsing.
+2019-02-10 - 12:02:28	Looping through HTML to find data.
+2019-02-10 - 12:02:28	Reformatting numbers into groups of five.
+2019-02-10 - 12:02:28	Looing through HTML to find date.
+2019-02-10 - 12:02:28	Adding found numbers to dictionary.
+2019-02-10 - 12:02:28	Returning Dictionary for processing.
+2019-02-10 - 12:02:28	Opening numbers.json to compare new numbers with.
+2019-02-10 - 12:02:28	Returning json data for processing.
+2019-02-10 - 12:02:28	Checking if new values exist in saved data.
+2019-02-10 - 12:02:28	Date (2019-02-09) found in saved data.
